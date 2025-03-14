@@ -1,0 +1,8 @@
+Array
+(
+    [name] => mercy johnson
+    [address] => 12 Soka ibadan
+    [phone] => 0907238823779
+    [email] => teyst@example.com
+    [industry] => uihjhkj
+)
